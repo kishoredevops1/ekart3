@@ -1,5 +1,6 @@
-int a = 40;
+int a = 19990;
+int c = 104;
+int D = 106;
 int b = 100;
-int c = 1000;
 int d = 1022;
 
